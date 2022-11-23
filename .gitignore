@@ -1,6 +1,9 @@
 # retrofit build file
 *.g.dart
 
+# mock build file
+*.mocks.dart
+
 # constants
 lib/src/core/values/constants.dart
 
